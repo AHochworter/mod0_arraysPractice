@@ -23,8 +23,15 @@ console.log(ageFriends);
 arrBooleans.unshift(false)
 console.log(arrBooleans);
 // •	Commit your work.
+
 // •	[Intentionally open-ended] Demonstrate your understanding of index positions in this file. You can write an explanation, provide some examples with the Arrays you’ve created, or anything else.
+
+//Let's index a few members of the favRestaurants
+console.log(favRestaurants[0]);
+console.log(favRestaurants[4]);
+console.log(favRestaurants[1]);    
 // •	Commit your work.
+
 // Create another file in the same directory, name it self-evaluation.md. In Markdown, answer the following questions:
 // •	How confident do you feel with the content on Arrays so far?
 // •	Is there any additional learning you need or want to do before moving to the next lesson?
